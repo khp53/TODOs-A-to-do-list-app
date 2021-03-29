@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/khp53/TODOs-A-to-do-list-app/master/assets/logo.png?token=AQTH7EO6OUFBK3JSC4ET7T3AMFHFU" alt="Logo" width="300" height="100">
+<img src="https://raw.githubusercontent.com/khp53/TODOs-A-to-do-list-app/master/assets/logo.png?token=AQTH7EO6OUFBK3JSC4ET7T3AMFHFU" alt="Logo" width="800" height="100">
 # todos
 
 A todo list application
