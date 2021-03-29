@@ -11,6 +11,6 @@ A todo list application
 ## Screenshots
 
 <img src="https://github.com/khp53/TODOs-A-to-do-list-app/edit/master/assets/Home_Blank.png" alt="Home Screen" width="300" height="600">
-<img src="https://github.com/khp53/TODOs-A-to-do-list-app/edit/master/assets/Add_Task.png" alt="Home Screen" width="300" height="600">
+<img src="https://raw.githubusercontent.com/khp53/TODOs-A-to-do-list-app/master/assets/Add_Task.PNG?token=AQTH7ENLVESZGJFQYVINCALAMFGYC" alt="Home Screen" width="300" height="600">
 <img src="https://github.com/khp53/TODOs-A-to-do-list-app/edit/master/assets/Task_List.png" alt="Home Screen" width="300" height="600">
 <img src="https://github.com/khp53/TODOs-A-to-do-list-app/edit/master/assets/Task_Completed.png" alt="Home Screen" width="300" height="600">
